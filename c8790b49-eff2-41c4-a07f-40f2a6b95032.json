@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Localhost",
+    "variables": [
+      {
+        "value": "http：//192.168.12.15:8080",
+        "key": "url"
+      },
+      {
+        "value": "",
+        "key": "serverplt"
+      },
+      {
+        "value": "",
+        "key": "serverdata"
+      }
+    ]
+  },
+  {
+    "variables": [
+      {
+        "value": "http://api-test.fxbusiness.cn:31202",
+        "key": "url"
+      },
+      {
+        "value": "/ads-platform",
+        "key": "serverplt"
+      },
+      {
+        "value": "/dmp-datastore",
+        "key": "serverdata"
+      }
+    ],
+    "name": "Test Environment"
+  },
+  {
+    "variables": [
+      {
+        "key": "url",
+        "value": "https://issue.advert.kidguard360.com"
+      },
+      {
+        "key": "serverplt",
+        "value": "/ads-platform"
+      },
+      {
+        "key": "serverdata",
+        "value": "/dmp-datastore"
+      }
+    ],
+    "name": "Dev Environment"
+  },
+  {
+    "name": "Dev Environment2",
+    "variables": [
+      {
+        "value": "https://api.fxbusiness.cn",
+        "key": "url"
+      },
+      {
+        "value": "/ads-platform",
+        "key": "serverplt"
+      },
+      {
+        "value": "/dmp-datastore",
+        "key": "serverdata"
+      }
+    ]
+  }
+]
